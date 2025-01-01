@@ -1,16 +1,20 @@
-# hello_world
+# Contador Flutter 🧮
 
-A new Flutter project.
+Este projeto é um exemplo simples de um **contador** construído com **Flutter**. 
 
-## Getting Started
+## 🚀 Funcionalidade
 
-This project is a starting point for a Flutter application.
+- **Incremento de Contador**: O contador aumenta de 1 a cada clique no botão (+) e diminui de 1 a cada clique no botão (-).
+- **Interface Simples**: Design minimalista e fácil de usar.
 
-A few resources to get you started if this is your first Flutter project:
+## 🖼️ Demonstração
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bdb9f23c-6755-4d02-a317-2ed1b3ac2063" width="400" height="700" />
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Tecnologias Utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: Framework para desenvolvimento de aplicativos nativos.
+- **Dart**: Linguagem de programação usada no Flutter.
+
+
